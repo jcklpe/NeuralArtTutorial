@@ -1,11 +1,15 @@
-# NeuralArtTutorial
+# neural-network scripts
 
-Hey! this is a repo for additional files related to my 4 part "Neural Network for Artists" series on my web log. 
+Repo for deepstyle image generation. 
+
+
+Originally created as part of a 4 part tutorial series aimed at artists and non-programmers. 
 
 [First Part: installing Ubuntu](https://www.jackalope.tech/how-artists-can-set-up-their-own-neural-network-part-1-installation/)
 
 [Second Part: Installing DeepStyle](https://www.jackalope.tech/how-artists-can-set-up-their-own-neural-network-part-2-neural-network-install/)
 
-[Third Part: Creating Imagery with Scripts]
+[Third Part: Scripting Image Generation]([Third Part: Creating Imagery with Scripts)
 
-[Fourth Part: Using Photoshop to create new paintings from imagery]
+[Fourth Part: Painting Using Generated Imagery](https://www.jackalope.tech/how-artists-can-set-up-their-own-neural-network-part-4-painting/)
+

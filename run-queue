@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Pass parameter to content variable
+content=$1;
+
+# Begin for loop to cycle through images in queue folder
+for picture in queue/*;
+do
+
+picture=${picture%.png};
+picture=${picture##*/};
+
+ th neural_style.lua -style_image queue/$picture.png -content_image reference-image/resized/$content.png -num_iterations 1200 -gpu 0 -output_image output/$content/$content-$picture.png
+
+done
