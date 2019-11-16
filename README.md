@@ -1,4 +1,4 @@
-# neural-network scripts
+# neural-art-scripts
 
 Repo for deepstyle image generation. 
 
